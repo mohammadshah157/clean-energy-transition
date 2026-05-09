@@ -1,5 +1,3 @@
-# clean-energy-transition
-This repository contains an econometric evaluation of India's transition from solid biomass fuels to Liquified Petroleum Gas (LPG) and its subsequent impact on respiratory health outcomes among children under five. 
 # Clean Energy Transition and Respiratory Health in India
 ### A Difference-in-Differences and IV Analysis Using NFHS Microdata
 
